@@ -24,3 +24,9 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://github.com/Flutter2616/db_miner/assets/124335197/ac9a9323-d42c-4bd6-b98e-352fa9ac7c69" height="50%" width="30%">
 
 </p>
+
+
+
+https://github.com/Flutter2616/db_miner/assets/124335197/69d7c8db-b575-45ba-9f17-c1d6767079f2
+
+
